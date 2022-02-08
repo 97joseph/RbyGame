@@ -3,8 +3,7 @@
  Game theory
 
 
-![Screenshot](screenshot.png)
-
+![image description](decwc.PNG)
 
 Your program will do things
 such as processesing text files containing Ship or attack strategy
