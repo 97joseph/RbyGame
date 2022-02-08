@@ -4,7 +4,7 @@ require_relative '../models/position'
 
 # return a populated GameBoard or nil
 # Return nil on any error (validation error or file opening error)
-# If 5 valid ships added, return GameBoard; return nil otherwise
+# If 5 valid ships added, return GameBoard; return nil otherwis
 def read_ships_file(path)
     GameBoard.new 10, 10
 end

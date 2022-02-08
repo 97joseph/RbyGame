@@ -2,7 +2,7 @@ require_relative 'input_controller'
 require_relative '../models/game_board'
 
 # ===========================================
-# =====DON'T modify the following code=======
+# =====DON'T modify the following code=====
 # ===========================================
 
 PLAYER_ONE = 1
