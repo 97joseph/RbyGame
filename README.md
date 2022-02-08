@@ -3,6 +3,9 @@
  Game theory
 
 
+![Screenshot](screenshot.png)
+
+
 Your program will do things
 such as processesing text files containing Ship or attack strategy
 information, and you will process that data to build a 10X10 GameBoard of ships
